@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @happi89
+- 👋 Hi, I’m @happi89 and im in highschool.
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Data science 
 - 📫 How to reach me farhaanp99@gmail.com 
