@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data science and competitice programming
 - 🌱 I’m currently learning Data science and c++!
 - 📫 How to reach me farhaanp99@gmail.com 
+- Tips to help me with my goals are welcome!
 
 <!---
 happi89/happi89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
