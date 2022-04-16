@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @happi89 and im in highschool.
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Data science 
+- 👀 I’m interested in Data science and competitice programming
+- 🌱 I’m currently learning Data science and c++!
 - 📫 How to reach me farhaanp99@gmail.com 
 
 <!---
