@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @happi89 and im in highschool.
-- 👀 I’m interested in Data science and competitice programming
-- 🌱 I’m currently learning Data science and c++!
+- 👀 I’m interested in web development
+- 🌱 I’m currently web development on The Odin Project
 - 📫 How to reach me farhaanp99@gmail.com 
 - Tips to help me with my goals are welcome!
 
