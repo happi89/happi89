@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @happi89 and im in highschool.
-- 👀 I’m interested in web development
-- 🌱 I’m currently web development on The Odin Project
-- 📫 How to reach me farhaanp99@gmail.com 
-- Tips to help me with my goals are welcome!
 
 <!---
 happi89/happi89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Kevin
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Farhaan
 
 [![Website](https://img.shields.io/badge/kevinfeng.ga-grey?style=for-the-badge&url=https%3A%2F%2Fkevinfeng.ga)](https://kevinfeng.ga/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kevinfeng-cs88)](https://medium.com/@kevinfeng-cs88)
@@ -67,13 +62,3 @@ You can click the Preview link to take a look at your changes.
 <img height=40 src="https://img.shields.io/badge/WD__Black-SN750 500 GB-%23000000?style=for-the-badge&logo=westerndigital"></br>
 <img height=40 src="https://img.shields.io/badge/BarraCuda-2%20TB-%236EBE49?style=for-the-badge&logo=seagate"></br>
 
----
-
-## 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Maintaining the Wim Hof Method: Discipline and Escalation](https://kevinfeng-cs88.medium.com/maintaining-the-wim-hof-method-discipline-and-escalation-a33adc507c4e?source=rss-952aa1b4a284------2)
-- [Pseudocode: Breaking Free of Tutorial Sites](https://kevinfeng-cs88.medium.com/pseudocode-breaking-free-of-tutorial-sites-329ecd22efc4?source=rss-952aa1b4a284------2)
-- [We Will Always Be Apes: Return to Monke](https://kevinfeng-cs88.medium.com/we-will-always-be-apes-return-to-monke-38f4848961f3?source=rss-952aa1b4a284------2)
-- [Wim Hof: The Real Life Demon Slayer](https://kevinfeng-cs88.medium.com/wim-hof-the-real-life-demon-slayer-cacecd9f769?source=rss-952aa1b4a284------2)
-- [My First Week with Apollo](https://kevinfeng-cs88.medium.com/my-first-week-with-apollo-658ad5824134?source=rss-952aa1b4a284------2)
-<!-- BLOG-POST-LIST:END -->
