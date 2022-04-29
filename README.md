@@ -44,6 +44,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" width=50px src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">&nbsp;
   <img align="center" width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
   <img align="center" width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
+  <img align="center" width=50px src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">&nbsp;&nbsp;&nbsp;
 </div>
 
 </br>
