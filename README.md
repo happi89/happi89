@@ -40,9 +40,9 @@ You can click the Preview link to take a look at your changes.
 <div>
   <img align="center" width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
   <img align="center" width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
+  <img align="center" width=50px src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png";
   <img align="center" width=50px 
-  src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"
-  <img align="center" width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
+  src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png";
   <img align="center" width=50px _2012.svg.png">&nbsp;
   <img align="center" width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
   <img align="center" width=50px src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">&nbsp;&nbsp;&nbsp;
