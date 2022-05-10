@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 ## Languages and Tools:
 <div>
   <img align="center" width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
-  <img align="center" width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
+  <img align="center" width=50px src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png">&nbsp;
   <img align="center" width=50px 
   src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png">&nbsp;
   <img align="center" width=50px 
