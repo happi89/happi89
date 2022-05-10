@@ -45,8 +45,6 @@ You can click the Preview link to take a look at your changes.
   <img align="center" width=50px 
   src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png">&nbsp;
   <img align="center" width=50px 
-  _2012.svg.png">&nbsp;
-  <img align="center" width=50px 
   src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
   <img align="center" width=50px  src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">&nbsp;&nbsp;&nbsp;
 </div>
