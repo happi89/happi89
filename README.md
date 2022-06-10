@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 :school: Currently in highschool</br>
 :fountain_pen: I have a passion for learning</br>
-🍎: Currently learning JavaScript</br>
+🍎: Currently learning React!</br>
 :computer: I love PC building and computer hardware</br>
 :shower: Fun fact: I take cold showers</br>
 :mailbox: How to reach me: <a href="farhaanp99@gmail.com">farhaanp99@gmail.com</a>
