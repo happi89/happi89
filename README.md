@@ -37,7 +37,6 @@
 <a href= https://github.com/?tab=repositories&q=&type=&language=graphql&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/graphql.svg'> </a>
 <a href= https://github.com/happi89?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
-<a href= https://github.com/happi89?tab=repositories&q=&type=&language=reactnative&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactnative.svg'> </a>
 <!--
 <a href= https://github.com/happi89?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 <a href= https://github.com/happi89?tab=repositories&q=&type=&language=redis&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redis.svg'> </a>
