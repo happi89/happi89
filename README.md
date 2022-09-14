@@ -4,6 +4,7 @@
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=happi89.happi89)
+[![wakatime](https://wakatime.com/badge/user/09c66f03-de1d-45db-9772-37938e4fd1c7.svg)](https://wakatime.com/@09c66f03-de1d-45db-9772-37938e4fd1c7)
 
 </p>
 <div size='20px'> Hi! My name is Farhaan Patel. Thank You for taking the time to view my GitHub Profile :smile: 
