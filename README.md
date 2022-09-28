@@ -17,11 +17,9 @@
 
 - 🔭 I’m currently working on Learning
 
-- 🌱 I’m currently learning ther mern stack 
-
 - 👯 I’m looking to collaborate on Open Source, Projects 
 
-- 💬 Talk to me about JavaScript, Freelancing Opportunities, Open Source, Computers 
+- 💬 Talk to me about JavaScript/TypeScript, Freelancing Opportunities, Open Source, Computers 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/happi89?tab=repositories&q=&type=&language=git&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
